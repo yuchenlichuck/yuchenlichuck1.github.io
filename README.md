@@ -29,6 +29,6 @@ Image segmentation of corneal ulceration using machine learning methods
 ## About Author
 > * Li Yuchen
 > * Email: liyc@mail.com
-> * Majoring in Computer Science and Engineering
+> * Majoring in Computer Science and Technology
 > * Sophomore, Southern University of Science and Technology (SUSTech), Living in Shenzhen
 > * Lab Member, Doing Computer Vision & Medical Image Processing Using Deep Learning methods
