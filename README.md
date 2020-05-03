@@ -17,6 +17,7 @@ Image segmentation of corneal ulceration using machine learning methods
 ![EyeChecker](https://github.com/yuchenlichuck/EyeChecker/blob/master/1a221.jpg)
 
 ## The introduction of Kmeans clustering methods
+
 * k-means算法中的k代表类簇个数，means代表类簇内数据对象的均值
 * k-means算法是一种基于划分的聚类算法，以距离作为数据对象间相似性度量的标准，即数据对象间的距离越小，则它们的相似性越高则它们越有可能在同一个类簇。
 * k-means算法以距离作为数据对象间相似性度量的标准，通常采用欧氏距离来计算数据对象间的距离。
