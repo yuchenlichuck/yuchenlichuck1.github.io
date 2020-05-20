@@ -939,10 +939,17 @@ h3.subheading-agileits-w3layouts {
 }
 
 .scrollbar {
-	height: 250px;
+	height: 700px;
 	background: #fff;
 	overflow-y: scroll;
 }
+
+.scrollbar1 {
+	height: 1000px;
+	background: #fff;
+	overflow-y: scroll;
+}
+
 
 #style-1::-webkit-scrollbar-track,
 #style-2::-webkit-scrollbar-track {
@@ -961,23 +968,24 @@ h3.subheading-agileits-w3layouts {
 }
 
 .edu-img-agileits {
-	background: url(../images/edu.jpg)no-repeat 0px 0px;
+	background: url("../images/18.jpg")no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	background-size: cover;
-	min-height: 444px;
+ 
+	min-height: 800px;
 }
 
 .exp-img-agileits {
-	background: url(../images/exp.jpg)no-repeat 0px 0px;
+	background: url(../images/21.jpg)no-repeat 0px 0px clip-path: inset(0px 1000px 0px 1000px);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	background-size: cover;
-	min-height: 444px;
+	min-height: 1300px;
 	float: right;
 }
 
