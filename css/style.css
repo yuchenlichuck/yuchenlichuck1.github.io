@@ -979,7 +979,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .exp-img-agileits {
-	background: url(../images/21.jpg)no-repeat 0px 0px clip-path: inset(0px 1000px 0px 1000px);
+	background: url(../images/21.jpg)no-repeat 0px -100px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
